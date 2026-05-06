@@ -1,7 +1,7 @@
 ---
-title: "Orange Belt Martial Arts History"
+title: "Karate: Orange Belt Martial Arts History"
 date: 2024-12-19T09:00:00-05:00
-slug: orange-belt-martial-arts-history
+slug: karate-orange-belt-martial-arts-history
 tags:
   - "karate"
   - "orange belt"

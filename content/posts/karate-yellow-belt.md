@@ -24,7 +24,7 @@ For example:
 
 The term “karate” is derived from two Japanese characters: “kara” (空), meaning “empty,” and “te” (手), meaning “hand.” Together, they translate to “empty hand,” signifying a martial art that emphasizes unarmed combat
 
-[More can be found here](/karate/history/yellow-belt-terms-and-basic-history/)
+[More can be found here](/2024/11/01/karate-yellow-belt-terms-and-basic-history/)
 
 
 ### Techniques

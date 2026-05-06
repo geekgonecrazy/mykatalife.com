@@ -24,7 +24,7 @@ We learned more about martial arts and some more about other styles like:
 * Aikido
 * Jeet Kane Do
 
-[Read more here](/karate/history/orange-belt-martial-arts-history/)
+[Read more here](/2024/12/19/karate-orange-belt-martial-arts-history/)
 
 ### Techniques
 

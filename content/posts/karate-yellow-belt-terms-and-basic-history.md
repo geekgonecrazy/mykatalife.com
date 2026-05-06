@@ -1,7 +1,7 @@
 ---
-title: "Yellow Belt Terms and Basic History"
+title: "Karate: Yellow Belt Terms and Basic History"
 date: 2024-11-01T09:00:00-05:00
-slug: yellow-belt-terms-and-basic-history
+slug: karate-yellow-belt-terms-and-basic-history
 tags:
   - "karate"
   - "yellow belt"
