@@ -19,6 +19,12 @@ params:
     custom:
       - title: "Home"
         url: "/"
+      - title: "Techniques"
+        url: "/karate/techniques/"
+      - title: "Kata"
+        url: "/karate/kata/"
+      - title: "History"
+        url: "/karate/history/"
       - title: "About"
         url: "/about"
 outputs:

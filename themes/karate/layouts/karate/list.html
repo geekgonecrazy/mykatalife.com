@@ -1,0 +1,23 @@
+{{- define "main" -}}
+<div class="section-header">
+  <h1 class="section-title">{{ .Title }}</h1>
+</div>
+{{- with .Content }}
+<div class="prose">{{ . }}</div>
+{{- end }}
+{{- $pages := .Pages.ByTitle -}}
+{{- if $pages }}
+<ul class="post-list">
+  {{- range $pages }}
+  <li class="post-item">
+    <h2 class="post-item-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{- if .Date.Year }}
+    <div class="post-item-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    </div>
+    {{- end }}
+  </li>
+  {{- end }}
+</ul>
+{{- end -}}
+{{- end -}}

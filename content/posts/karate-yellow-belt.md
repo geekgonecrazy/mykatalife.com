@@ -24,23 +24,23 @@ For example:
 
 The term “karate” is derived from two Japanese characters: “kara” (空), meaning “empty,” and “te” (手), meaning “hand.” Together, they translate to “empty hand,” signifying a martial art that emphasizes unarmed combat
 
-[More can be found here](https://mykatalife.com/karate-yellow-belt-terms-and-basic-history)
+[More can be found here](/karate/history/yellow-belt-terms-and-basic-history/)
 
 
 ### Techniques
 
-* [Front Stance/zenkutsu-dachi](https://mykatalife.com/karate-front-stance)
-* [Down Block/gedan barai](https://mykatalife.com/karate-down-block)
-* [Lunge Punch/oi-zuki](https://mykatalife.com/karate-lunge-punch)
-* [Double Lunge Punch/Nihon Zuki](https://mykatalife.com/karate-double-lunge-punch)
-* [Triple Lunge Punch/Sanbon Zuki](https://mykatalife.com/karate-triple-lunge-punch)
-* [Ready Stance/Heiko-dachi](https://mykatalife.com/karate-attention-ready-stance)
-* [Fighting Stance](https://mykatalife.com/karate-fighting-stance)
-* [Back Fist Strike/Uraken Uchi](https://mykatalife.com/karate-back-fist-strike)
-* [Fighting Punch/Choku-zuki](https://mykatalife.com/karate-fighting-punch)
-* [Front Kick/Mae Geri](https://mykatalife.com/karate-front-kick)
-* [Side Kick/Yoko Geri](https://mykatalife.com/karate-side-kick)
-* [Spinning Back Kick/Ushiro Geri](https://mykatalife.com/karate-spinning-back-kick)
+* [Front Stance/zenkutsu-dachi](/karate/techniques/front-stance/)
+* [Down Block/gedan barai](/karate/techniques/down-block/)
+* [Lunge Punch/oi-zuki](/karate/techniques/lunge-punch/)
+* [Double Lunge Punch/Nihon Zuki](/karate/techniques/double-lunge-punch/)
+* [Triple Lunge Punch/Sanbon Zuki](/karate/techniques/triple-lunge-punch/)
+* [Ready Stance/Heiko-dachi](/karate/techniques/attention-ready-stance/)
+* [Fighting Stance](/karate/techniques/fighting-stance/)
+* [Back Fist Strike/Uraken Uchi](/karate/techniques/back-fist-strike/)
+* [Fighting Punch/Choku-zuki](/karate/techniques/fighting-punch/)
+* [Front Kick/Mae Geri](/karate/techniques/front-kick/)
+* [Side Kick/Yoko Geri](/karate/techniques/side-kick/)
+* [Spinning Back Kick/Ushiro Geri](/karate/techniques/spinning-back-kick/)
 
 ### Katas
 

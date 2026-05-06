@@ -1,0 +1,18 @@
+---
+title: "Fighting Stance"
+date: 2024-10-15T09:00:00-05:00
+slug: fighting-stance
+tags:
+  - "karate"
+  - "technique"
+  - "yellow belt"
+---
+
+This one I haven't been able to find equivalant Japanese name.  This might be an American Karate stance.
+
+Execution of Fighting Stance:
+
+1. From attention stance usually
+2. Step back with left or right foot turning your body side ways with your feet parallel.  You will still be looking towards the front
+3. Back hand comes up near your face between eye and ear with elbows tight protecting the ribs.
+4. Lead hand is in a fist down by your side

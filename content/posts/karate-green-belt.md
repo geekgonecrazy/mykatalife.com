@@ -28,21 +28,21 @@ Team sparring was a lot of fun I definitely recommend it!
 
 ### Techniques
 
-* [Jump Front Kick / Mae Tobi Geri](https://mykatalife.com/karate-jump-front-kick)
-* [Spinning Hook Kick / Ushiro Ura Mawashi Geri](https://mykatalife.com/karate-spinning-hook-kick)
-* [Crescent Kick / Mikazuki Geri](https://mykatalife.com/karate-crescent-kick)
+* [Jump Front Kick / Mae Tobi Geri](/karate/techniques/jump-front-kick/)
+* [Spinning Hook Kick / Ushiro Ura Mawashi Geri](/karate/techniques/spinning-hook-kick/)
+* [Crescent Kick / Mikazuki Geri](/karate/techniques/crescent-kick/)
   * Inside-Out Crescent Kick / Uchi Mikazuki Geri
   * Outside-In Crescent Kick / Soto Mikazuki Geri 
-* [Spinning Roundhouse](https://mykatalife.com/karate-spinning-roundhouse)
-* [Spinning Backfist / Ushiro Uraken Uchi](https://mykatalife.com/karate-spinning-backfist)
-* [Jab / Kizami-zuki](https://mykatalife.com/karate-jab)
-* [Hook Punch / Kagi-zuki](https://mykatalife.com/karate-hook-punch)
-* [Back Ridge Hand / Ura Haito Uchi](https://mykatalife.com/karate-back-ridge-hand)
+* [Spinning Roundhouse](/karate/techniques/spinning-roundhouse/)
+* [Spinning Backfist / Ushiro Uraken Uchi](/karate/techniques/spinning-backfist/)
+* [Jab / Kizami-zuki](/karate/techniques/jab/)
+* [Hook Punch / Kagi-zuki](/karate/techniques/hook-punch/)
+* [Back Ridge Hand / Ura Haito Uchi](/karate/techniques/back-ridge-hand/)
 
 
 ### Katas
 
-We continued to work a lot on [H-Form #1](https://mykaralife.com/karate-h-form-1), H-Form #2 and H-Form #3.  These were all on our test.
+We continued to work a lot on [H-Form #1](/karate/kata/h-form-1/), H-Form #2 and H-Form #3.  These were all on our test.
 
 The new one this time for me was To-San. This was a really fun one to learn!
 

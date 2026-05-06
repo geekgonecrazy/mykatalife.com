@@ -1,0 +1,50 @@
+---
+title: "Ridge Hand Strike"
+date: 2025-02-26T09:00:00-05:00
+slug: ridge-hand-strike
+tags:
+  - "karate"
+  - "technique"
+  - "orange belt"
+---
+
+In karate, the ridge-hand strike, known as **Haitō Uchi** (背刀打ち), is a versatile technique that utilizes the inside edge of the hand, opposite the knife-hand strike, to deliver powerful blows. This strike is effective for targeting areas such as the temple, neck, and ribs, making it a valuable addition to a martial artist's arsenal.
+
+<!--more-->
+
+## Execution Steps:
+
+### 1. Assume the Fighting Stance:
+- Stand with your feet shoulder-width apart.
+- Step back with your dominant leg, keeping the front leg slightly bent.
+- Raise your hands to protect your face and chest, with elbows close to your body.
+
+### 2. Prepare the Striking Hand:
+- Open your hand with fingers extended and held tightly together.
+- Tuck your thumb securely against the side of your palm to avoid injury during the strike. [
+- Keep your wrist straight to maintain structural integrity.
+
+### 3. Chamber the Striking Hand:
+- Draw your striking hand back to a position near your ear or shoulder, depending on the specific technique.
+- Ensure your elbow is bent and positioned appropriately to generate power.
+
+### 4. Execute the Strike:
+- In a swift, arcing motion, swing your arm toward the target, leading with the inside edge of your hand.
+- Maintain a slight bend in the elbow upon impact to absorb shock and prevent hyperextension.
+- Focus on striking through the target to maximize effectiveness.
+
+### 5. Recoil and Return to Stance:
+- After making contact, quickly withdraw your hand along the same path.
+- Return to your original fighting stance, ready for subsequent movements.
+
+## Key Points:
+- **Targeting:** Aim for vulnerable areas such as the temple, side of the neck, ribs, or solar plexus for maximum impact.
+- **Hand Position:** Keep fingers tightly together and the thumb securely tucked in to maintain structural integrity and prevent injury.
+- **Wrist Alignment:** Ensure the wrist remains straight to align the striking surface properly, enhancing the strike's effectiveness.
+- **Controlled Motion:** Execute the strike with controlled speed and power, avoiding overextension to maintain balance and readiness.
+- **Practice:** Begin practicing slowly to ensure proper form, gradually increasing speed and power as proficiency develops.
+
+## Recommended Video:
+For a visual demonstration and further guidance, you might find this tutorial helpful:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zgvLFO7CZmk" title="Ridge Hand Strike in Martial Arts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

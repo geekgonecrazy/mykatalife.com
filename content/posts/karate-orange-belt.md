@@ -24,18 +24,18 @@ We learned more about martial arts and some more about other styles like:
 * Aikido
 * Jeet Kane Do
 
-[Read more here](https://mykatalife.com/karate-orange-belt-martial-arts-history)
+[Read more here](/karate/history/orange-belt-martial-arts-history/)
 
 ### Techniques
 
-* [Outside Block/ Soto Uke](https://mykatalife.com/karate-outside-block)
-* [Inside Block/ Uchi Uke](https://mykatalife.com/karate-inside-block)
-* [Roundhouse / Mawashi Geri](https://mykatalife.com/karate-roundhouse)
-* [Double Roundhouse / Nidan Mawashi Geri](https://mykatalife.com/karate-double-roundhouse)
-* [Hook Kick / Ura Mawashi Geri](https://mykatalife.com/karate-hook-kick)
-* [Knife Hand Strike / Shuto Uchi](https://mykatalife.com/karate-knife-hand-strike)
-* [Spinning Side Kick / Ushiro Mawashi Geri](https://mykatalife.com/karate-spinning-side-kick)
-* [Ridge Hand Strike / Haitō Uchi](https://mykatalife.com/karate-ridge-hand-strike)
+* [Outside Block/ Soto Uke](/karate/techniques/outside-block/)
+* [Inside Block/ Uchi Uke](/karate/techniques/inside-block/)
+* [Roundhouse / Mawashi Geri](/karate/techniques/roundhouse/)
+* [Double Roundhouse / Nidan Mawashi Geri](/karate/techniques/double-roundhouse/)
+* [Hook Kick / Ura Mawashi Geri](/karate/techniques/hook-kick/)
+* [Knife Hand Strike / Shuto Uchi](/karate/techniques/knife-hand-strike/)
+* [Spinning Side Kick / Ushiro Mawashi Geri](/karate/techniques/spinning-side-kick/)
+* [Ridge Hand Strike / Haitō Uchi](/karate/techniques/ridge-hand-strike/)
 * High Check
 * Low Check
 
@@ -43,7 +43,7 @@ We learned more about martial arts and some more about other styles like:
 
 We worked a lot on H-Form #1 and the subsequent #2 and #3
 
-[Can find more about H-Form #1 here](https://mykaralife.com/karate-h-form-1)
+[Can find more about H-Form #1 here](/karate/kata/h-form-1/)
 
 ## Next Belt!
 
