@@ -1,0 +1,36 @@
+baseURL: "https://mykatalife.com"
+languageCode: "en-us"
+title: "My Kata Life"
+theme: "karate"
+permalinks:
+  posts: "/:year/:month/:day/:title"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    guessSyntax: true
+params:
+  description: "Notes from the dojo — one karateka's journey, one kata at a time."
+  mainSections:
+    - posts
+  nav:
+    custom:
+      - title: "Home"
+        url: "/"
+      - title: "About"
+        url: "/about"
+outputs:
+  home:
+    - HTML
+    - Feed
+mediaTypes:
+  application/rss+xml:
+    suffixes:
+      - xml
+outputFormats:
+  Feed:
+    baseName: feed
+    isPlainText: false
+    mediaType: application/rss+xml

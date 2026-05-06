@@ -1,0 +1,46 @@
+---
+title: "Karate: Roundhouse"
+date: 2025-01-22T09:00:00-05:00
+slug: karate-roundhouse
+tags:
+  - "karate"
+  - "technique"
+  - "orange belt"
+---
+
+In karate, the roundhouse kick, or Mawashi Geri (回し蹴り), is a fundamental technique characterized by its circular motion, delivering powerful strikes to various target areas. It’s versatile and effective in both offensive and defensive scenarios.
+
+<!--more-->
+
+## Execution Steps:
+
+### 1. Assume the Fighting Stance:
+- Stand with your feet shoulder-width apart.
+- Step back with your dominant leg, keeping the front leg slightly bent.
+- Raise your hands to protect your face and chest, with elbows close to your body.
+
+### 2. Pivot on the Supporting Foot:
+- Rotate your supporting foot (non-kicking leg) so that the toes point away from your intended target. This pivoting action is essential for generating power and protecting your knee.
+- The heel of the supporting foot should lift slightly off the ground, allowing for a smoother pivot.
+
+### 3. Chamber the Kicking Leg:
+- Raise your knee of the kicking leg toward your chest, keeping the foot flexed.
+- Aim the knee in the direction of the target to help guide the kick.
+
+### 4. Execute the Kick:
+- Snap your lower leg out from the knee, extending it quickly towards the target.
+- Strike with the instep or ball of your foot, depending on the martial arts style you are practicing.
+- Keep your upper body balanced and avoid leaning back too far.
+
+### 5. Recoil and Return:
+- After making contact, quickly retract the leg by bending the knee back towards your body.
+- Lower the leg back to the ground, returning to the fighting stance.
+
+## Key Points:
+- **Spotting the Target:** Turning your head first to locate the target helps maintain accuracy and balance during the kick.
+- **Controlled Rotation:** Avoid over-rotating; the pivot should be just enough to position your body for the kick.
+- **Balance and Posture:** Keep your core engaged and upper body upright to maintain balance.
+- **Practice Slowly:** Begin practicing the kick slowly to ensure proper form before increasing speed and power.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jwnky3w3xVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

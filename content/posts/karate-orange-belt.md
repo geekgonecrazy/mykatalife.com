@@ -1,0 +1,50 @@
+---
+title: "Karate: Orange Belt!"
+date: 2025-03-05T09:00:00-05:00
+slug: karate-orange-belt
+tags:
+  - "karate"
+  - "journey"
+  - "orange belt"
+  - "belt test"
+  - "belt progression"
+---
+
+![](https://i.snap.as/jXcDvYbf.jpeg)
+
+I've now reached Orange Belt!  On to Green!
+
+<!--more-->
+
+## What did we learn?
+
+We learned more about martial arts and some more about other styles like:
+
+* Judo
+* Aikido
+* Jeet Kane Do
+
+[Read more here](https://mykatalife.com/karate-orange-belt-martial-arts-history)
+
+### Techniques
+
+* [Outside Block/ Soto Uke](https://mykatalife.com/karate-outside-block)
+* [Inside Block/ Uchi Uke](https://mykatalife.com/karate-inside-block)
+* [Roundhouse / Mawashi Geri](https://mykatalife.com/karate-roundhouse)
+* [Double Roundhouse / Nidan Mawashi Geri](https://mykatalife.com/karate-double-roundhouse)
+* [Hook Kick / Ura Mawashi Geri](https://mykatalife.com/karate-hook-kick)
+* [Knife Hand Strike / Shuto Uchi](https://mykatalife.com/karate-knife-hand-strike)
+* [Spinning Side Kick / Ushiro Mawashi Geri](https://mykatalife.com/karate-spinning-side-kick)
+* [Ridge Hand Strike / Haitō Uchi](https://mykatalife.com/karate-ridge-hand-strike)
+* High Check
+* Low Check
+
+### Katas
+
+We worked a lot on H-Form #1 and the subsequent #2 and #3
+
+[Can find more about H-Form #1 here](https://mykaralife.com/karate-h-form-1)
+
+## Next Belt!
+
+Now we are ready to move on to the next belt.  Next up Green!

@@ -1,0 +1,21 @@
+---
+title: "Karate: Front Kick"
+date: 2024-10-29T09:00:00-05:00
+slug: karate-front-kick
+tags:
+  - "karate"
+  - "technique"
+  - "yellow belt"
+---
+
+The Front Kick in karate is called Mae Geri (前蹴り), which literally means “forward kick.” It’s one of the most essential and widely used kicking techniques, known for its speed, directness, and effectiveness in both offense and defense.
+
+<!--more-->
+
+Key Points for Effective Mae Geri:
+* Posture: Maintain an upright stance with your guard up to protect your head and torso.
+* Balance: Keep your weight centered to ensure stability throughout the kick.
+* Breathing: Exhale sharply upon execution to engage core muscles and enhance power.
+* Targeting: Aim for vulnerable areas such as the solar plexus, abdomen, or chin.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3KxTSadA7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

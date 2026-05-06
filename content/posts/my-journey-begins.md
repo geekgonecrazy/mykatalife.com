@@ -1,0 +1,34 @@
+---
+title: "My Journey Begins"
+date: 2024-09-03T09:00:00-05:00
+slug: my-journey-begins
+tags:
+  - "karate"
+  - "journey"
+---
+
+![](https://i.snap.as/l4FY4paA.jpg)
+
+I’ve always been a fan of Martial arts.  When I was a kid I wanted to start classes, but it never worked out for a number of reasons.
+
+In college I finally had my first opportunity!  I needed 1 PE credit for my degree and while looking through the course catalog and I found it.  A karate class offered by [Grand Master Chan Yu](https://www.yusacademy.org/our-academy).
+
+<!--more-->
+
+![](https://i.snap.as/SsfaZnrH.jpg)
+
+Yup thats me as an 18 year old white belt.  Lets just say i've put a lot of meat on my bones since then. 
+
+I finished the class and got my yellow belt and was eager to keep going.  So I went down to the dojo to sign up.  When I got there and found out the cost I determined it was too expensive for my limited income.  In hindsight... I believe they said something like $80 a session.. And my mental definition of a session was apparently $80 per class. 🤦
+
+## 14 years later...
+
+![](https://i.snap.as/neD2wQ6Y.png)
+
+14 years almost to the day later..
+
+My kids found out about a Karate class last year and we signed them up.  They really enjoy the classes and we all like the instructors.  They've already earned their orange belts.  
+
+My oldest kid needed to move to the adult class which had her going back from orange belt to white belt.  The kids class move at slightly different rate.  But to "keep motivated" dad joined.  But in reality I wanted to anyways.  After all these years of wanting to do Martial Arts I took my opportunity to get started. It’s a good way for us to bond and spend time together practicing, doing tournaments together etc.
+
+I did start over as a white belt so i'm a bit behind my kids.. But, I don't mind.  Its all part of the journey.

@@ -1,0 +1,31 @@
+---
+title: "Karate: Side Kick"
+date: 2024-11-05T09:00:00-05:00
+slug: karate-side-kick
+tags:
+  - "karate"
+  - "technique"
+  - "yellow belt"
+---
+
+In karate, the side kick, known as Yoko Geri (横蹴り), is a powerful technique executed by thrusting the leg sideways to strike an opponent. This kick is valued for its strength and versatility in both offensive and defensive situations. ￼
+
+<!--more-->
+
+Variations of Yoko Geri:
+1. Yoko Geri Keage (Side Snap Kick):
+* A swift, snapping kick aimed at targets like the chin or ribs.
+* Executed with a rapid extension and retraction of the leg.
+2. Yoko Geri Kekomi (Side Thrust Kick):
+* A more forceful kick designed to penetrate the opponent’s defenses.
+* Involves a deliberate thrusting motion, emphasizing power and reach.
+
+Tips for Effective Execution:
+• Balance and Stability: Maintain a strong stance to support the kick’s power.
+• Chambering: Properly chamber the knee to control the direction and force.
+• Foot Alignment: Ensure the supporting foot pivots appropriately to facilitate hip rotation.
+• Targeting: Focus on specific areas such as the ribs, abdomen, or head for maximum impact.
+
+Regular practice of Yoko Geri enhances balance, flexibility, and precision, making it a valuable addition to a martial artist’s repertoire. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cp-tgi-UpJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

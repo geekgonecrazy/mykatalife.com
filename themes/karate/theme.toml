@@ -1,0 +1,9 @@
+name = "karate"
+license = "MIT"
+licenselink = ""
+description = "A sumi-e minimalist Hugo theme — rice paper background, sumi ink type."
+tags = ["minimalist", "sumi-e", "japanese", "blog", "responsive"]
+min_version = "0.112.0"
+
+[author]
+  name = "Aaron"
