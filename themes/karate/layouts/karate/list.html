@@ -16,6 +16,9 @@
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
     </div>
     {{- end }}
+    {{- with .Summary }}
+    <p class="post-item-summary">{{ . | plainify | truncate 320 }}</p>
+    {{- end }}
   </li>
   {{- end }}
 </ul>
